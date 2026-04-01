@@ -1,0 +1,5 @@
+{
+  "name": "Morse Light Decoder",
+  "description": "Decode Morse code signals from light flashes using real-time camera visual recognition and intensity analysis.",
+  "requestFramePermissions": ["camera"]
+}
